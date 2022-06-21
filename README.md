@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dawid</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
-<p>👷‍♂️ I’m currently working on learning React and TypeScript</p> 
+<p>👷‍♂️ I’m currently working on learning React and TypeScript!!</p> 
 
 
 <h3 align="left">Connect with me:</h3>
