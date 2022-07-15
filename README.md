@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dawid</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
-<p>I'm interested in IT ever since I can remember. I've finished information technology highschool where I learned all basics. I'm always eager to learn news things. In 2020 i found out what my real Passion is. Over one year ago i started to learn HTML, CSS, JavaScript. I think it is time to find a job and gain experience as a junior front-end-developer. For now, i'm focusing on learning React.js and Typescript</p> 
+<p>I'm interested in IT ever since I can remember. I've finished information technology highschool where I learned all basics. I'm always eager to learn news things. In 2021 i found out what my real Passion is. Over one year ago i started to learn HTML, CSS, JavaScript. I think it is time to find a job and gain experience as a junior front-end-developer. For now, i'm focusing on learning React.js and Typescript</p> 
 
 
 <h3 align="left">Connect with me:</h3>
